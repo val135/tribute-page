@@ -1,0 +1,72 @@
+#main {
+    text-align: center;
+}
+
+#title {
+}
+
+header {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 15px;
+}
+
+h2 {
+    text-decoration: underline;
+    color: darkred;
+    text-align: center;
+}
+
+p {
+    margin-top: 20px;
+}
+
+#img-div{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    background-color: #f2f5f2;
+    padding-top: 30px;
+    padding-bottom: 20px;
+  
+}
+
+#image{
+    width: 70%;
+    border: 6px gray solid;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: auto;
+}
+
+#img-caption {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 11px;
+    color: dimgray;
+    padding-top: 10px;
+}
+
+
+#tribute-info{
+    width: 60%;
+    text-align: left;
+    align-items: flex-start;
+    margin-left: auto;
+    margin-right:auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+}
+
+#tribute-link {
+  height: 30px;
+  background-color: lightgray;
+}
+
+.quote {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    font-style: oblique;
+    color: dimgray;
+}
